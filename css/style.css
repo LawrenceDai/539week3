@@ -1,5 +1,6 @@
 body {
     background-color: #d9e4ff;
+    color: darkmagenta;
 }
 
 h1 {
@@ -21,7 +22,7 @@ h3 {
 }
 
 p {
-    line-height: 2;
+    line-height: 150%;
 }
 
 img {
